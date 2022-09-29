@@ -1,8 +1,5 @@
 - 👋 ¡Hola! Mi nombre es Gabriel Ballón Fox, y soy un diseñador industrial que vive en Lima Perú.
-- 👀 Tengo 2 carreras (chef pastelero y diseñador industrial), y hace no mucho comencé a desarrollarme en el ámbito de desarrollo web. 
-- Sé que suena raro y *RANDOM*, pero desde pequeño solía llevar cursos de programación, y no fue hasta la pandemia que decidí explorar un poco
-- en el mundo del front end dev.
-- 🌱 Actualmente estoy aprendiendo a usar Vue, pero tengo experiencia en REACT, además de acoplar mis repositorios 
-- y códigos propios en plataformas *NOCODE* como webflow.
+- 👀 Tengo 2 carreras (chef pastelero y diseñador industrial), y hace no mucho comencé a desarrollarme en el ámbito de desarrollo web. Sé que suena raro y *RANDOM*, pero desde pequeño solía llevar cursos de programación, y no fue hasta la pandemia que decidí explorar un poco en el mundo del front end dev.
+- 🌱 Actualmente estoy aprendiendo a usar Vue, pero tengo experiencia en REACT, además de acoplar mis repositorios y códigos propios en plataformas *NOCODE* como webflow.
 - 💞️ Me gusta aprender de todo, y estoy abierto a cualquier tipo de colaboración que se pueda hacer.
 - 📫 Puedes contactarme en el siguiente correo gabriel.ballon.fox@gmail.com
